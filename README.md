@@ -1,9 +1,5 @@
-# Rizni Faiz
-
-Software Engineering Undergraduate building across full stack web, AI, mobile, and IoT.
-
-- Portfolio: https://rizni-portfolio.vercel.app/
-- LinkedIn: https://linkedin.com/in/rizni-4-faiz
-- GitHub: https://github.com/rizinthehub
-
-Currently open to Software Engineering internship opportunities.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Rizni Faiz GitHub Profile README" src="dark_mode.svg">
+</picture>
