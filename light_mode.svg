@@ -24,22 +24,35 @@ text, tspan {white-space: pre;}
 
 <!-- LEFT ASCII BLOCK -->
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="40" y="70">        ____  ___ _____ _   _ ___ </tspan>
-<tspan x="40" y="92">       |  _ \|_ _|__  /| \ | |_ _|</tspan>
-<tspan x="40" y="114">       | |_) || |  / / |  \| || | </tspan>
-<tspan x="40" y="136">       |  _ &lt; | | / /_ | |\  || | </tspan>
-<tspan x="40" y="158">       |_| \_\___/____||_| \_|___|</tspan>
+<tspan x="20" y="30">********************(((%//************</tspan>
+<tspan x="20" y="50">,*******#&amp;&amp;&amp;&amp;&amp;@&amp;%%@@@@@@@@@&amp;&amp;&amp;/*,*****</tspan>
+<tspan x="20" y="70">,,,,,*/&amp;%@@@@@@@@&amp;@@@@@@@@@@@@@&amp;(/,,,,</tspan>
+<tspan x="20" y="90">,,,,(&amp;@@@@@@@%@@@@@@@@@@@@@@@@@@@&amp;%,,,</tspan>
+<tspan x="20" y="110">,,,%@@@@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@&amp;@%(,</tspan>
+<tspan x="20" y="130">,,/&amp;&amp;@@&amp;@@@@@@@&amp;@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@@&amp;@@(@@@(,,</tspan>
+<tspan x="20" y="150">,#&amp;@@@@@@@@@@&amp;#&amp;%&amp;%&amp;%##%%%&amp;@@@@@@&amp;@@@&amp;</tspan>
+<tspan x="20" y="170">,*&amp;@@@@@@@@&amp;(((/((####((##%%&amp;@@@@@@@%,</tspan>
+<tspan x="20" y="190">,,(@@@&amp;@@@&amp;%/#///((((((#&amp;%%&amp;&amp;@@@@@&amp;@@(</tspan>
+<tspan x="20" y="210">,,,&amp;@@@&amp;@@@%(/(&amp;@%#(/#&amp;&amp;&amp;@@%%&amp;@@@@@&amp;&amp;#</tspan>
+<tspan x="20" y="230">,,,,&amp;@@@@@(///(##(///#%%%%%%%#&amp;@@@@@,,</tspan>
+<tspan x="20" y="250">,,,,,,&amp;&amp;*@(/*////////(#####(((/(#&amp;,,,,</tspan>
+<tspan x="20" y="270">,,,,,,,*@@(////(/(%((#%%%###/(&amp;%/*,,,,</tspan>
+<tspan x="20" y="290">,,,,,,,,*&amp;@///#&amp;&amp;@&amp;%@&amp;@@@@&amp;###@#,,,,,,</tspan>
+<tspan x="20" y="310">,,,,,,,,,,,&amp;(/((//((##%%%%&amp;#%*.,,,,,,,</tspan>
+<tspan x="20" y="330">,,,,,,,,,,,,,/(/////(####%%#/*&amp;&amp;.,,,,,</tspan>
+<tspan x="20" y="350">.,.......,.,,///@%#%#%%&amp;&amp;&amp;(//(@&amp;&amp;&amp;,,,,</tspan>
 
-<tspan x="72" y="208">software engineering</tspan>
-<tspan x="72" y="230">full stack · ai · iot</tspan>
 
-<tspan x="52" y="305">      .-----------------------.</tspan>
-<tspan x="52" y="327">      |  build. test. ship.  |</tspan>
-<tspan x="52" y="349">      '-----------------------'</tspan>
+<tspan x="72" y="380">software engineering</tspan>
+<tspan x="72" y="402">full stack · ai · iot</tspan>
 
-<tspan x="78" y="420">clean code</tspan>
-<tspan x="78" y="442">useful ai</tspan>
-<tspan x="78" y="464">real projects</tspan>
+<tspan x="52" y="455">      .-----------------------.</tspan>
+<tspan x="52" y="477">      |  build. test. ship.  |</tspan>
+<tspan x="52" y="499">      '-----------------------'</tspan>
+
+<tspan x="78" y="550">clean code</tspan>
+<tspan x="78" y="572">useful ai</tspan>
+<tspan x="78" y="594">real projects</tspan>
 </text>
 
 <!-- RIGHT TERMINAL INFO -->
