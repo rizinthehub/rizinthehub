@@ -1,5 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img alt="Rizni Faiz GitHub Profile README" src="dark_mode.svg">
-</picture>
+<a href="https://github.com/rizinthehub/rizinthehub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizinthehub/rizinthehub/main/dark_mode.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizinthehub/rizinthehub/main/light_mode.svg?v=3">
+    <img width="100%" alt="Rizni Faiz GitHub Profile README" src="https://raw.githubusercontent.com/rizinthehub/rizinthehub/main/dark_mode.svg?v=3">
+  </picture>
+</a>
